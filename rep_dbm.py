@@ -1,8 +1,8 @@
 from oauth2client import client
 
 flow = client.OAuth2WebServerFlow(
-    client_id="587544431116-bovep1g2me3ji9nnsvbm2ik2leivcar2.apps.googleusercontent",
-    client_secret="U1S-hNLUE_In5ffw1aSXYsEVleusercontent",
+    client_id="Authenticationhere",
+    client_secret="Passwordt",
     scope="https://www.googleapis.com/auth/doubleclickbidmanager",
     user_agent="use",
     redirect_uri='urn:ietf:wg:oauth:2.0:oob')
